@@ -1,6 +1,7 @@
 def reverse(s):
-    temp = s[::-1]
+    s = s[::-1]
+    return s
 
 s = ["h","e","l","l","o"]
-reverse(s)
+
 print(reverse(s))
