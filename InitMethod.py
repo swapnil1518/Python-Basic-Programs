@@ -1,4 +1,4 @@
-# It is nothing but a constructor. It is a special method in python class used to initialize the vriables.
+# It is nothing but a constructor. It is a special method in python class used to initialize the vriables..
 
 class Student:
 # init is method so using def to define it
