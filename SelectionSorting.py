@@ -18,5 +18,5 @@ print(num)
 # inner loop - j in range(i,6) since we are reducing the size of array everytime so in range i to 6 till last last element
 # min pos = j -> defining the min value  when we get new min value which is samller than
 # while min_pos:
-#     swaping for outer loop, to make 1 swap for 1 iteration
+#swaping for outer loop, to make 1 swap for 1 iteration
 
