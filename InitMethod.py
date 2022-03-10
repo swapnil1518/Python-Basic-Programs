@@ -14,3 +14,19 @@ student1 = Student("Swapnil",23,"IT")
 #creating obj
 student1.print_student()
 #calling method
+
+
+"""
+Constructor : 
+Constructor is executed when we create the object of this class. 
+In Python the __init__() method is called the constructor and is always called when an object is created.
+Each time an object is created a method is called. That methods is named the constructor.
+"""
+""" 
+Types of constructors : 
+
+default constructor: The default constructor is a simple constructor which doesn’t accept any arguments. 
+Its definition has only one argument which is a reference to the instance being constructed.
+parameterized constructor: constructor with parameters is known as parameterized constructor. 
+The parameterized constructor takes its first argument as a reference to the instance being constructed known as self and the rest of the arguments are provided by the programmer.
+"""
