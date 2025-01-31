@@ -1,0 +1,14 @@
+#1st way
+print("Hi, This is Swapnil. \nNice to meet you. \nGood evening")
+
+
+#2nd way
+for msg in ["Hi, this is Swapnil","Nice to meet you","Good Evening"]:
+    print(msg)
+    print(len(msg))
+    
+    
+#3rd way
+message = ["Hi, this is Swapnil","Nice to meet you","Good Evening"]
+for i in range(len(message)):
+    print(message[i]
