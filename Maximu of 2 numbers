@@ -1,0 +1,7 @@
+# To find  maximumof 2 numbers
+
+num1 = input("enter a number ")
+num2 = input("enter 2nd number ")
+maximum = max(int(num1), int(num2))
+print("maximum number is:", maximum)
+
